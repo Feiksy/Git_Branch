@@ -10,6 +10,8 @@ namespace Git_Branch
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Grundbasis");
+			Console.WriteLine("ZweiterZweig");
 		}
 	}
 }
